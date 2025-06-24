@@ -61,7 +61,7 @@ contact-management-backend/
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repo
-    git clone <your-repo-url>
+    git clone <https://github.com/ShivanHussain/backend-contact-management-system>
     cd contact-management-backend
 
     
